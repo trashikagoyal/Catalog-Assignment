@@ -1,3 +1,7 @@
+To run the code:
+run command: 
+node shamir_answer.js
+
 To solve the problem of finding the constant term c of a polynomial using Shamir's Secret Sharing algorithm, follow these steps:
 
 Step 1: Parse the JSON Input
